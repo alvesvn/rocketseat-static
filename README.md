@@ -8,7 +8,7 @@
 ## Features
 Projetos realizados durante a formação em desenvolvimento full-stack, onde é abordado as principais linguagens web.
 -  <b>HTML5</b> — linguagem de marcação. 
--  <b>CSS</b> — componentes estilizados
+-  <b>CSS3</b> — componentes estilizados
 
 
 
