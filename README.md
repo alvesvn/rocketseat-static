@@ -3,19 +3,5 @@
 
 <p>Projetos realizados durante a formação em desenvolvimento full stack pela escola rocketseat, onde é abordado as principais linguagens web.
 
-## Projeto 01: Unique Designs
-
-<p align="center"> <img src="https://github.com/alvesvn/rocketseat-static/assets/96539606/8ffa5d24-80bf-441e-89cc-15d81d2b3a05" width="600" /></p> 
-
-## Projeto 02: Flutuar
-
-<p align="center"> <img src="https://github.com/alvesvn/rocketseat-static/assets/96539606/514fe2b3-a889-4396-bf2f-bc7a1a46b5df" width="600" /></p> 
-
-## Projeto 03: Treine-me
-
-<p align="center"> <img src="https://github.com/alvesvn/rocketseat-static/assets/96539606/967f8a0b-5d67-4248-9b5c-8f68429d2fa6" width="600" /></p> 
-
-## Projeto 04: Rocketsect
-
-<p align="center"> <img src="https://github.com/alvesvn/rocketseat-static/assets/96539606/b6d4162d-4123-4f4f-92f6-d23c7f460362" width="600" /></p> 
+## Projetos e tecnologias utilizadas
 
