@@ -16,6 +16,6 @@ Projetos realizados durante a formação em desenvolvimento full-stack, onde é 
 - <a href="https://unique-designs-five.vercel.app/" target="_blank">Unique Designs.</a>
 - <a href="https://projeto-flutuar.vercel.app/">Flutuar.</a>
 - <a href="https://treineme-six.vercel.app/">Treine-me.</a>
-- <a href="https://projeto-flutuar.vercel.app/">Rocketsect.</a>
+- <a href="https://rocketseat-static.vercel.app/">Rocketsect.</a>
 
 
