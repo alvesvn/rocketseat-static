@@ -13,6 +13,6 @@
 
 ## Projeto 03: Treine-me 
 
-<p align="center"> <img src="https://github.com/alvesvn/rocketseat-static/assets/96539606/612c8719-ced6-402f-b573-19074e94bf5e)" width="700" /></p> 
+<p align="center"> <img src="https://github.com/alvesvn/rocketseat-static/assets/96539606/967f8a0b-5d67-4248-9b5c-8f68429d2fa6" width="700" /></p> 
 
 
