@@ -4,3 +4,4 @@
 <p>Projetos realizados durante a formação em desenvolvimento full stack pela escola rocketseat, onde é abordado as principais linguagens web.
 
 ### 
+![Apresentação com Tema Espacial Preto com Estrelas Moderno ](https://github.com/alvesvn/rocketseat-static/assets/96539606/a6b1463b-0e6c-45dc-93ff-029aa9a8cef0)
