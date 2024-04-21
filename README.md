@@ -15,3 +15,7 @@
 
 <p align="center"> <img src="https://github.com/alvesvn/rocketseat-static/assets/96539606/967f8a0b-5d67-4248-9b5c-8f68429d2fa6" width="700" /></p> 
 
+## Projeto 04: Rocketsect
+
+<p align="center"> <img src="https://github.com/alvesvn/rocketseat-static/assets/96539606/b6d4162d-4123-4f4f-92f6-d23c7f460362" width="700" /></p> 
+
