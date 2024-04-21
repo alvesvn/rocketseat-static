@@ -9,7 +9,10 @@
 
 <h3>Projeto 02: Flutuar</h3> 
 
-
 <p align="center"> <img src="https://github.com/alvesvn/rocketseat-static/assets/96539606/514fe2b3-a889-4396-bf2f-bc7a1a46b5df" width="700" /></p> 
+
+<h3>Projeto 03: Treine-me</h3> 
+
+<p align="center"> <img src="https://github.com/alvesvn/rocketseat-static/assets/96539606/612c8719-ced6-402f-b573-19074e94bf5e)" width="700" /></p> 
 
 
