@@ -5,8 +5,8 @@ Web pages desenvolvidas na <a href="https://www.rocketseat.com.br/formacao/fulls
 
 ## Features
 Projetos realizados durante a formação em desenvolvimento full-stack, onde é abordado as principais linguagens web.
--  HTML5 — linguagem de marcação. 
--  CSS — componentes estilizados
+-  <b>HTML5</b> — linguagem de marcação. 
+-  <b>CSS</b> — componentes estilizados
 
 ## Projetos
 - Unique designs.
@@ -14,6 +14,6 @@ Projetos realizados durante a formação em desenvolvimento full-stack, onde é 
 - Treine-me.
 - Rocketsect.
 
-![Apresentação com Tema Espacial Preto com Estrelas Moderno ](https://github.com/alvesvn/rocketseat-static/assets/96539606/a6b1463b-0e6c-45dc-93ff-029aa9a8cef0)
 
+<p align="center"><img src="https://github.com/alvesvn/rocketseat-static/assets/96539606/a6b1463b-0e6c-45dc-93ff-029aa9a8cef0" height="400" widht="400"></p>
 
