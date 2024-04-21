@@ -6,3 +6,7 @@
 <h3>Projeto 01: Unique Designs</h3> 
 
 <p align="center"> <img src="https://github.com/alvesvn/rocketseat-static/assets/96539606/8ffa5d24-80bf-441e-89cc-15d81d2b3a05" width="700" /></p> 
+
+<h3>Projeto 02: Flutuar</h3> 
+
+
