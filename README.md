@@ -3,5 +3,4 @@
 
 <p>Projetos realizados durante a formação em desenvolvimento full stack pela escola rocketseat, onde é abordado as principais linguagens web.
 
-## Projetos e tecnologias utilizadas
-
+### 
