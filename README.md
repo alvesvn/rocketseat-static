@@ -4,7 +4,7 @@
 Web pages desenvolvidas na <a href="https://www.rocketseat.com.br/formacao/fullstack">Rockeseat Full-Stack</a>.
 
 ## Features
-Projetos realizados durante a formação em desenvolvimento full-stack, onde é abordado as principais linguagens web.<
+Projetos realizados durante a formação em desenvolvimento full-stack, onde é abordado as principais linguagens web.
 -  HTML5 — linguagem de marcação. 
 -  CSS — componentes estilizados
 
