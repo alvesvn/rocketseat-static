@@ -1,7 +1,7 @@
 
 <h1> <img src="https://github.com/alvesvn/rocketseat-static/assets/96539606/8a518121-4f14-4b0a-8c17-656ab27e256e" alt="logo-repositorio" height="50" widht="50" /></h1>
 
-<p>Projetos realizados durante a formação em desenvolvimento full stack pela escola rocketseat, onde é abordado as principais linguagens web. Tecnologias utilizadas: HTML5 e CSS3.
+<p>Projetos realizados durante a formação em desenvolvimento full stack pela escola rocketseat, onde é abordado as principais linguagens web.
 
 ## Projeto 01: Unique Designs
 
@@ -14,5 +14,4 @@
 ## Projeto 03: Treine-me 
 
 <p align="center"> <img src="https://github.com/alvesvn/rocketseat-static/assets/96539606/967f8a0b-5d67-4248-9b5c-8f68429d2fa6" width="700" /></p> 
-
 
