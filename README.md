@@ -5,11 +5,11 @@
 
 ## Projeto 01: Unique Designs
 
-<p> <img src="https://github.com/alvesvn/rocketseat-static/assets/96539606/8ffa5d24-80bf-441e-89cc-15d81d2b3a05" width="600" /></p> 
+<p align="center"> <img src="https://github.com/alvesvn/rocketseat-static/assets/96539606/8ffa5d24-80bf-441e-89cc-15d81d2b3a05" width="600" /></p> 
 
 ## Projeto 02: Flutuar
 
-<p> <img src="https://github.com/alvesvn/rocketseat-static/assets/96539606/514fe2b3-a889-4396-bf2f-bc7a1a46b5df" width="600" /></p> 
+<p align="center"> <img src="https://github.com/alvesvn/rocketseat-static/assets/96539606/514fe2b3-a889-4396-bf2f-bc7a1a46b5df" width="600" /></p> 
 
 ## Projeto 03: Treine-me
 
