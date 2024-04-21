@@ -8,7 +8,7 @@ Projetos realizados durante a formação em desenvolvimento full-stack, onde é 
 -  <b>HTML5</b> — linguagem de marcação. 
 -  <b>CSS</b> — componentes estilizados
 
-<p align="center"><img src="https://github.com/alvesvn/rocketseat-static/assets/96539606/a6b1463b-0e6c-45dc-93ff-029aa9a8cef0" height="400" widht="400"></p>
+<p align="center"><img src="https://github.com/alvesvn/rocketseat-static/assets/96539606/8edeef69-ce6b-4ce4-9668-90dc8a0f612b" height="400" widht="400"></p>
 
 
 ## Pages
@@ -16,6 +16,5 @@ Projetos realizados durante a formação em desenvolvimento full-stack, onde é 
 - <a href="https://projeto-flutuar.vercel.app/">Flutuar.</a>
 - <a href="https://treineme-six.vercel.app/">Treine-me.</a>
 - <a href="https://projeto-flutuar.vercel.app/">Rocketsect.</a>
-
 
 
