@@ -1,5 +1,5 @@
 
-<h1 align="center"> <img src="https://github.com/alvesvn/rocketseat-static/assets/96539606/8a518121-4f14-4b0a-8c17-656ab27e256e" alt="logo-repositorio" height="50" widht="50" /></h1> 
+<h1 align="center"> <img src="https://github.com/alvesvn/rocketseat-static/assets/96539606/bf8e6ffc-4ef3-42fe-8742-de1062136b35" alt="logo-repositorio" height="50" widht="50" /></h1> 
 <p align="center">Web pages desenvolvidas na <b>Rocketseat Full-Stack Development.</b></p>
 
 
