@@ -4,7 +4,7 @@
 <p align="center">O objetivo deste repositório é consolidar os conceitos fundamentais de HTML e CSS por meio de projetos práticos e exemplos. A ideia é criar uma base sólida que permita a criação de páginas web estáticas e esteticamente agradáveis.</p>
 
 ## Features
-Projetos realizados durante a formação em desenvolvimento full-stack, onde é abordado as principais linguagens web.
+Projetos realizados durante a minha formação em desenvolvimento full-stack, onde é abordado as principais linguagens web.
 -  <b>HTML5</b> — Para a estruturação do conteúdo da página.
 -  <b>CSS3</b> — Para a estilização e layout da página.
 
