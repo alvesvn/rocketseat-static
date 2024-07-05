@@ -8,10 +8,16 @@ Projetos realizados durante a formação em desenvolvimento full-stack, onde é 
 -  <b>HTML5</b> — Para a estruturação do conteúdo da página.
 -  <b>CSS3</b> — Para a estilização e layout da página.
 
+## Functionalities
 
+- Estrutura básica de uma página web.
+- Uso de tags semânticas do HTML5.
+- Aplicação de estilos CSS para formatação do layout.
+- Inclusão de fontes e cores personalizadas.
 
-## Web pages
-- <a href="https://treineme-six.vercel.app/">Treine-me.</a>
-- <a href="https://rocketseat-static.vercel.app/">Rocket-sect.</a>
+## Visit the web pages
+
+- Descubra uma variedade de treinos personalizados projetados para atender às suas necessidades - <a href="https://treineme-six.vercel.app/">@Treine-me</a>
+- Proteja seus dados e navegue com tranquilidade - <a href="https://rocketseat-static.vercel.app/">@Rocket-sect</a>
 
 
