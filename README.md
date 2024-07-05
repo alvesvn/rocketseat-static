@@ -13,6 +13,6 @@ Projetos realizados durante a formação em desenvolvimento full-stack, onde é 
 
 ## Web pages
 - <a href="https://treineme-six.vercel.app/">Treine-me.</a>
-- <a href="https://rocketseat-static.vercel.app/">Rocketsect.</a>
+- <a href="https://rocketseat-static.vercel.app/">Rocket-sect.</a>
 
 
