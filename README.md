@@ -1,6 +1,6 @@
 
 <h1 align="center"> <img src="https://github.com/alvesvn/rocketseat-static/assets/96539606/bf8e6ffc-4ef3-42fe-8742-de1062136b35" alt="logo-repositorio" height="50" widht="50" /></h1> 
-<p align="center">Web pages desenvolvidas na <b>@rocketseat - trilha: explorer.</b></p>
+<p align="center">Web pages desenvolvidas na <b>@rocketseat</b> - trilhas: explorer e full-stack.</p>
 
 
 
