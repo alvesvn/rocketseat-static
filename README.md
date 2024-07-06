@@ -23,6 +23,5 @@ Projetos realizados durante a minha formação em desenvolvimento full-stack, on
 
 - Proteja seus dados e navegue com tranquilidade - <a href="https://rocketseat-static.vercel.app/">@Rocket-sect</a>
 
-  <a href="https://rocketseat-static.vercel.app/"><img src="https://github.com/alvesvn/rocketseat-static/assets/96539606/c956eac1-02e4-4977-8a5d-a969305bd400" alt="logo-repositorio"/></a>
-
+  <a href="https://rocketseat-static.vercel.app/"><img src="https://github.com/alvesvn/rocketseat-static/assets/96539606/f19f63c2-d862-48aa-a31b-4dac2ac5f214" alt="logo-repositorio"/></a>
 
