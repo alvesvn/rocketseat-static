@@ -25,7 +25,7 @@ Projetos realizados durante a minha formação em desenvolvimento full-stack, on
 
   <a href="https://rocketseat-static.vercel.app/"><img src="https://github.com/alvesvn/rocketseat-static/assets/96539606/f19f63c2-d862-48aa-a31b-4dac2ac5f214" alt="Pagina web de segurança de dados"/></a>
 
-- <strong>Recipe.page:</strong> Descubra sabores únicos com nossas receitas deliciosas e práticas - <a href="https://rocketseat-static.vercel.app/">@Recipe.page</a>
+- <strong>Recipe.page:</strong> Descubra sabores únicos com nossas receitas deliciosas e práticas - <a href="https://recipe-page-cyan-three.vercel.app/">@Recipe.page</a>
 
-  <a href="https://rocketseat-static.vercel.app/"><img src="https://github.com/alvesvn/rocketseat-static/assets/96539606/f554f04c-d7d5-4e00-97b5-ea3d97f10e2b" alt="Pagina web de receitas"/></a>
+  <a href="https://recipe-page-cyan-three.vercel.app/"><img src="https://github.com/alvesvn/rocketseat-static/assets/96539606/f554f04c-d7d5-4e00-97b5-ea3d97f10e2b" alt="Pagina web de receitas"/></a>
 
