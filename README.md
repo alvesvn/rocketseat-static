@@ -19,10 +19,13 @@ Projetos realizados durante a minha formação em desenvolvimento full-stack, on
 
 - <strong>Treine-me:</strong> Descubra uma variedade de treinos personalizados projetados para atender às suas necessidades - <a href="https://treineme-six.vercel.app/">@Treine-me</a>
 
-  <a href="https://treineme-six.vercel.app/"><img src="https://github.com/alvesvn/rocketseat-static/assets/96539606/cffa1cd9-9361-4284-96bc-99d58dcb503e" alt="logo-repositorio"/></a>
+  <a href="https://treineme-six.vercel.app/"><img src="https://github.com/alvesvn/rocketseat-static/assets/96539606/cffa1cd9-9361-4284-96bc-99d58dcb503e" alt="Pagina web de treinos"/></a>
 
 - <strong>Rocket.sect:</strong> Proteja seus dados e navegue com tranquilidade - <a href="https://rocketseat-static.vercel.app/">@Rocket.sect</a>
 
-  <a href="https://rocketseat-static.vercel.app/"><img src="https://github.com/alvesvn/rocketseat-static/assets/96539606/f19f63c2-d862-48aa-a31b-4dac2ac5f214" alt="logo-repositorio"/></a>
+  <a href="https://rocketseat-static.vercel.app/"><img src="https://github.com/alvesvn/rocketseat-static/assets/96539606/f19f63c2-d862-48aa-a31b-4dac2ac5f214" alt="Pagina web de segurança de dados"/></a>
 
-- 
+- <strong>Recipe.page:</strong> Descubra sabores únicos com nossas receitas deliciosas e práticas - <a href="https://rocketseat-static.vercel.app/">@Recipe.page</a>
+
+  <a href="https://rocketseat-static.vercel.app/"><img src="https://github.com/alvesvn/rocketseat-static/assets/96539606/f554f04c-d7d5-4e00-97b5-ea3d97f10e2b" alt="Pagina web de receitas"/></a>
+
