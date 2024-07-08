@@ -29,9 +29,9 @@ Projetos realizados durante a minha formação em desenvolvimento full-stack, on
 
   <a href="https://recipe-page-cyan-three.vercel.app/"><img src="https://github.com/alvesvn/rocketseat-static/assets/96539606/f554f04c-d7d5-4e00-97b5-ea3d97f10e2b" alt="Pagina web de receitas"/></a>
 
-- <strong>Next Travel:</strong> Prepare-se para viver experiências inesquecíveis na sua próxima viagem - <a href="https://recipe-page-cyan-three.vercel.app/">@next-travel</a>
+- <strong>Next Trip:</strong> Prepare-se para viver experiências inesquecíveis na sua próxima viagem - <a href="https://next-trip-eight.vercel.app//">@next-trip</a>
 
-  <a href="https://recipe-page-cyan-three.vercel.app/"><img src="https://github.com/alvesvn/rocketseat-static/assets/96539606/6b88060b-6fdd-4ab4-b6d4-65be63588daa" alt="Pagina web de receitas"/></a>
+  <a href="https://next-trip-eight.vercel.app/"><img src="https://github.com/alvesvn/rocketseat-static/assets/96539606/6b88060b-6fdd-4ab4-b6d4-65be63588daa" alt="Pagina web de receitas"/></a>
 
 
 
