@@ -17,15 +17,22 @@ Projetos realizados durante a minha formação em desenvolvimento full-stack, on
 
 ## Visit the web pages
 
-- <strong>Treine-me:</strong> Descubra uma variedade de treinos personalizados projetados para atender às suas necessidades - <a href="https://treineme-six.vercel.app/">@Treine-me</a>
+- <strong>Treine-me:</strong> Descubra uma variedade de treinos personalizados projetados para atender às suas necessidades - <a href="https://treineme-six.vercel.app/">@treine-me</a>
 
   <a href="https://treineme-six.vercel.app/"><img src="https://github.com/alvesvn/rocketseat-static/assets/96539606/cffa1cd9-9361-4284-96bc-99d58dcb503e" alt="Pagina web de treinos"/></a>
 
-- <strong>Rocket.sect:</strong> Proteja seus dados e navegue com tranquilidade - <a href="https://rocketseat-static.vercel.app/">@Rocket.sect</a>
+- <strong>Rocket Sect:</strong> Proteja seus dados e navegue com tranquilidade - <a href="https://rocketseat-static.vercel.app/">@Rocket.sect</a>
 
   <a href="https://rocketseat-static.vercel.app/"><img src="https://github.com/alvesvn/rocketseat-static/assets/96539606/f19f63c2-d862-48aa-a31b-4dac2ac5f214" alt="Pagina web de segurança de dados"/></a>
 
-- <strong>Recipe.page:</strong> Descubra sabores únicos com nossas receitas deliciosas e práticas - <a href="https://recipe-page-cyan-three.vercel.app/">@Recipe.page</a>
+- <strong>Recipe Page:</strong> Descubra sabores únicos com nossas receitas deliciosas e práticas - <a href="https://recipe-page-cyan-three.vercel.app/">@recipe.page</a>
 
   <a href="https://recipe-page-cyan-three.vercel.app/"><img src="https://github.com/alvesvn/rocketseat-static/assets/96539606/f554f04c-d7d5-4e00-97b5-ea3d97f10e2b" alt="Pagina web de receitas"/></a>
+
+- <strong>Next Travel:</strong> Prepare-se para viver experiências inesquecíveis na sua próxima viagem - <a href="https://recipe-page-cyan-three.vercel.app/">@next-travel</a>
+
+  <a href="https://recipe-page-cyan-three.vercel.app/"><img src="https://github.com/alvesvn/rocketseat-static/assets/96539606/6b88060b-6fdd-4ab4-b6d4-65be63588daa" alt="Pagina web de receitas"/></a>
+
+
+
 
