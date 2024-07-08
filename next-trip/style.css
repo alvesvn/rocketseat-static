@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    font-family: "Open Sans", sans-serif;
+    color: #333333;
+
+}
+
+body{
+    background-color: #F5F4F0;
+}
+
+#container{
+    width: 1120px;
+    height: 3054px;
+    margin: 88px auto 137px;
+}
+
+.headline{
+    text-transform: uppercase;
+    color: #E1624F;
+    font-weight: bold;
+    line-height: auto;
+    margin-bottom: 8px;
+}
+
+h1 {
+    margin-bottom: 40px;
+    line-height: auto;
+}
+
+
+img{
+    width:1120px;
+    height:660px;
+    border-radius: 28px;
+}
+
+.description{
+    color: #333333;
+    text-align: center;
+    margin-top: 24px;
+    margin-bottom: 44px;
+}
+
+
+
+.divisor{
+    border: 1px solid #D9D9D9;
+    margin-bottom: 64px;
+    margin-top: 40px;
+}
+
+
+
+h2 {
+    margin-bottom: 8px;
+}
+
+.paragraph{
+    text-align: justify;
+    color: #333333;
+    margin-bottom: 64px;
+}
+
+ol {
+    width: 1120px;
+    height: 1728px;
+}
+
+li{
+    margin-left: 28px;
+}
+
+ul {
+    padding-bottom: 40px;
+    list-style-type: disc;}
+
+.history{
+    color: #0C51A7;
+    font-weight: bold;
+}
+
+.couples{
+    color: #591B98;
+    font-weight: bold;
+
+}
+
+.family{
+    color: #E5245E;
+    font-weight: bold;
+}
+
+.budget{
+    color: #E95E10;
+    font-weight: bold;
+}
+
+.card-travel{
+    margin-bottom: 20px;
+    width: 1120px;
+    height: 522px;
+}
+
+
+.end{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    margin-top: 540px;
+    margin-bottom: 65px;
+}
+
+footer img {
+    width: 16px;
+    height: 16px;
+    vertical-align:middle;
+}
